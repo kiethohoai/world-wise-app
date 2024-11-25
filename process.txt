@@ -6,3 +6,4 @@
 006 Styling Options For React Applications
 007 Using CSS Modules
 008 Building the Pages
+009 Building the App Layout
