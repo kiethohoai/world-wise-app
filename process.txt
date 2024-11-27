@@ -23,3 +23,4 @@
 013 Interacting With the Map
 014 Setting Map Position With Geolocation
 015 Fetching City Data in the Form
+016 Creating a New City

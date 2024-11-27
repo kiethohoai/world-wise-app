@@ -10,7 +10,7 @@
         "lat": 16.4534687,
         "lng": 107.5359133
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Ho Chi Minh",
@@ -22,7 +22,7 @@
         "lat": 10.7552929,
         "lng": 106.3655624
       },
-      "id": 17806751
+      "id": "17806751"
     },
     {
       "cityName": "Ha Noi",
@@ -34,7 +34,79 @@
         "lat": 21.0227784,
         "lng": 105.8163641
       },
-      "id": 98443197
+      "id": "98443197"
+    },
+    {
+      "id": "5348",
+      "cityName": "Ðong Ha",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2024-11-27T16:21:45.071Z",
+      "notes": "Dong Ha Quang Tri",
+      "position": {
+        "lat": "16.805855718630408",
+        "lng": "107.10845947265626"
+      }
+    },
+    {
+      "id": "35e3",
+      "cityName": "Ðong Ha",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2024-11-27T16:22:35.528Z",
+      "notes": "Dong Ha Quang Tri Ne Ong OI",
+      "position": {
+        "lat": "16.805855718630408",
+        "lng": "107.10845947265626"
+      }
+    },
+    {
+      "id": "9e93",
+      "cityName": "Da Nang",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2024-11-27T16:27:32.485Z",
+      "notes": "Da Nang Trong Toi",
+      "position": {
+        "lat": "16.064949474136412",
+        "lng": "108.2091522216797"
+      }
+    },
+    {
+      "id": "14ef",
+      "cityName": "Tam Ky",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2024-11-27T16:30:56.068Z",
+      "notes": "Tam Ky",
+      "position": {
+        "lat": "15.559213680459806",
+        "lng": "108.48278045654298"
+      }
+    },
+    {
+      "id": "bd07",
+      "cityName": "Binh Son",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2024-11-27T16:31:40.683Z",
+      "notes": "",
+      "position": {
+        "lat": "15.385501501592843",
+        "lng": "108.8137435913086"
+      }
+    },
+    {
+      "id": "87ec",
+      "cityName": "Binh Son",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2024-11-27T16:32:42.071Z",
+      "notes": "",
+      "position": {
+        "lat": "15.23566170869155",
+        "lng": "108.90472412109376"
+      }
     }
   ]
 }
