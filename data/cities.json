@@ -1,75 +1,39 @@
 {
   "cities": [
     {
-      "cityName": "Hue",
-      "country": "Mien Trung",
-      "emoji": "HU",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 16.4534687,
-        "lng": 107.5359133
-      },
-      "id": "73930385"
-    },
-    {
-      "cityName": "Ho Chi Minh",
-      "country": "Mien Nam",
-      "emoji": "SG",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 10.7552929,
-        "lng": 106.3655624
-      },
-      "id": "17806751"
-    },
-    {
-      "cityName": "Ha Noi",
-      "country": "Mien Bac",
-      "emoji": "HN",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 21.0227784,
-        "lng": 105.8163641
-      },
-      "id": "98443197"
-    },
-    {
-      "id": "6f79",
-      "cityName": "Huong Thuy",
-      "country": "Viet Nam",
-      "emoji": "🇻🇳",
-      "date": "2024-11-28T03:29:30.659Z",
-      "notes": "",
-      "position": {
-        "lat": "16.421595734012676",
-        "lng": "107.71408081054689"
-      }
-    },
-    {
-      "id": "8ae7",
+      "id": "22db",
       "cityName": "Da Nang",
       "country": "Viet Nam",
       "emoji": "🇻🇳",
-      "date": "2024-11-28T03:35:44.288Z",
+      "date": "2024-11-28T07:14:08.464Z",
       "notes": "",
       "position": {
-        "lat": "16.058351054200926",
-        "lng": "108.21189880371095"
+        "lat": "16.059670755690046",
+        "lng": "108.20640563964845"
       }
     },
     {
-      "id": "b81f",
-      "cityName": "Dong Hoi",
+      "id": "2292",
+      "cityName": "Ðong Ha",
       "country": "Viet Nam",
       "emoji": "🇻🇳",
-      "date": "2024-11-28T03:36:00.711Z",
+      "date": "2024-11-28T07:14:23.166Z",
       "notes": "",
       "position": {
-        "lat": "17.454162523809906",
-        "lng": "106.59622192382814"
+        "lat": "16.812428793196208",
+        "lng": "107.09541320800781"
+      }
+    },
+    {
+      "id": "877c",
+      "cityName": "Hue",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2024-11-28T07:14:49.405Z",
+      "notes": "",
+      "position": {
+        "lat": "16.45715879614139",
+        "lng": "107.58705139160158"
       }
     }
   ]
