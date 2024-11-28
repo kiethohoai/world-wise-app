@@ -37,18 +37,6 @@
       "id": "98443197"
     },
     {
-      "id": "5348",
-      "cityName": "Ðong Ha",
-      "country": "Viet Nam",
-      "emoji": "🇻🇳",
-      "date": "2024-11-27T16:21:45.071Z",
-      "notes": "Dong Ha Quang Tri",
-      "position": {
-        "lat": "16.805855718630408",
-        "lng": "107.10845947265626"
-      }
-    },
-    {
       "id": "35e3",
       "cityName": "Ðong Ha",
       "country": "Viet Nam",
@@ -70,42 +58,6 @@
       "position": {
         "lat": "16.064949474136412",
         "lng": "108.2091522216797"
-      }
-    },
-    {
-      "id": "14ef",
-      "cityName": "Tam Ky",
-      "country": "Viet Nam",
-      "emoji": "🇻🇳",
-      "date": "2024-11-27T16:30:56.068Z",
-      "notes": "Tam Ky",
-      "position": {
-        "lat": "15.559213680459806",
-        "lng": "108.48278045654298"
-      }
-    },
-    {
-      "id": "bd07",
-      "cityName": "Binh Son",
-      "country": "Viet Nam",
-      "emoji": "🇻🇳",
-      "date": "2024-11-27T16:31:40.683Z",
-      "notes": "",
-      "position": {
-        "lat": "15.385501501592843",
-        "lng": "108.8137435913086"
-      }
-    },
-    {
-      "id": "87ec",
-      "cityName": "Binh Son",
-      "country": "Viet Nam",
-      "emoji": "🇻🇳",
-      "date": "2024-11-27T16:32:42.071Z",
-      "notes": "",
-      "position": {
-        "lat": "15.23566170869155",
-        "lng": "108.90472412109376"
       }
     }
   ]
