@@ -37,27 +37,39 @@
       "id": "98443197"
     },
     {
-      "id": "35e3",
-      "cityName": "Ðong Ha",
+      "id": "6f79",
+      "cityName": "Huong Thuy",
       "country": "Viet Nam",
       "emoji": "🇻🇳",
-      "date": "2024-11-27T16:22:35.528Z",
-      "notes": "Dong Ha Quang Tri Ne Ong OI",
+      "date": "2024-11-28T03:29:30.659Z",
+      "notes": "",
       "position": {
-        "lat": "16.805855718630408",
-        "lng": "107.10845947265626"
+        "lat": "16.421595734012676",
+        "lng": "107.71408081054689"
       }
     },
     {
-      "id": "9e93",
+      "id": "8ae7",
       "cityName": "Da Nang",
       "country": "Viet Nam",
       "emoji": "🇻🇳",
-      "date": "2024-11-27T16:27:32.485Z",
-      "notes": "Da Nang Trong Toi",
+      "date": "2024-11-28T03:35:44.288Z",
+      "notes": "",
       "position": {
-        "lat": "16.064949474136412",
-        "lng": "108.2091522216797"
+        "lat": "16.058351054200926",
+        "lng": "108.21189880371095"
+      }
+    },
+    {
+      "id": "b81f",
+      "cityName": "Dong Hoi",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2024-11-28T03:36:00.711Z",
+      "notes": "",
+      "position": {
+        "lat": "17.454162523809906",
+        "lng": "106.59622192382814"
       }
     }
   ]
